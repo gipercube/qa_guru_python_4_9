@@ -1,4 +1,4 @@
-name: Test GitHub CI
+name: Test GitHub CI report
 
 on:
   push:
