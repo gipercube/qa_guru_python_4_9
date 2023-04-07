@@ -109,9 +109,12 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.idea/
+allure
+allure-results/
 
 # Spyder project settings
-.spyderproject
+.spyderprojectgit
 .spyproject
 
 # Rope project settings
@@ -127,3 +130,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/allure/
